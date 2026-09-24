@@ -53,9 +53,9 @@ Hi there! 👋 I am **Noel Yang**, currently working as a **Senior Data Scientis
 * **Autonomous Multi-Agent Systems**: Designing robust multi-agent orchestration patterns for enterprise knowledge automation, tool-use execution, and complex reasoning pipelines.
 * **LLM Production Workflows**: Building end-to-end evaluation, prompt optimization, and fault-tolerant agentic architectures.
 
-#### 📈 Autonomous Systematic Trading Engine `🔒 Private / Proprietary` *(Side Project)*
+#### 📈 Autonomous Systematic Trading Engine `🔒 Proprietary` • [📊 Read Strategy Whitepaper ↗](https://noeltw.github.io/quant-research/) *(Side Project)*
 A fully decoupled, OOP-driven algorithmic trading and portfolio management system running live on Taiwan & US markets:
-* **`GA-047 (Adaptive-ML)`**: Market-Cap Adaptive 6-Model GBDT Ensemble + Triple Macro Gates (*7-Year Out-of-Sample Sharpe 3.80 / MDD -10.55%*).
+* **`GA-047 (Adaptive-ML)`**: Market-Cap Adaptive 6-Model GBDT Ensemble + Triple Macro Gates (*7-Year Out-of-Sample Sharpe 3.80 / MDD -10.55%*). &nbsp;[**Read Research Whitepaper ↗**](https://noeltw.github.io/quant-research/)
 * **`PRAD-007 (Regime-Drift)`**: Post-Revenue Announcement Drift (SUE Z-Score) + Institutional Co-trading + 200 SMA Filter (*Sharpe 2.17 / MDD -14.65%*).
 * **`MOM-003 (TQQQ-Dual)`**: Dual-Regime Trend Acceleration with dynamic volatility deleveraging on US leveraged ETFs.
 * **Automated Architecture**: Automated daily Discord/Telegram risk monitoring alerts and FinLab cloud synchronization.
