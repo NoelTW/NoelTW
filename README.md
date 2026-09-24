@@ -1,21 +1,21 @@
 <div align="center">
 
   <!-- Animated Dynamic Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Noel%20Yang&fontSize=48&fontAlignY=38&desc=Quantitative%20Researcher%20%7C%20Systematic%20Alpha%20%26%20ML%20Trading%20Systems&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Noel%20Yang&fontSize=46&fontAlignY=38&desc=Senior%20Data%20Scientist%20%7C%20Agentic%20AI%20%40%20Micron%20Technology&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%"/>
 
   <!-- Readme Typing SVG Animation -->
   <a href="https://github.com/NoelTW">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Quantitative+Researcher+%26+Algorithmic+Trader;Specializing+in+Statistical+Arbitrage+%26+Machine+Learning+Alphas;Building+Autonomous+Trading+Engines+on+Taiwan+%26+US+Markets;Sharpe+3.80+%7C+Low+Drawdown+%7C+Robust+Out-of-Sample+Execution" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Senior+Data+Scientist+%40+Micron+Technology;Architecting+Agentic+AI+Systems+%26+Multi-Agent+LLM+Workflows;Enterprise+AI%2FML+•+Autonomous+Reasoning+Engines;Side+Alpha%3A+Systematic+Quantitative+Trading+%26+Financial+ML" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- High-Status Badges -->
+  <!-- Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Systematic%20Alpha%20Mining-0077b6?style=for-the-badge&logo=target&logoColor=white" />
-    <img src="https://img.shields.io/badge/Markets-Taiwan%20Equity%20%7C%20US%20ETFs-0096c7?style=for-the-badge&logo=tradingview&logoColor=white" />
-    <img src="https://img.shields.io/badge/Stack-Python%20%7C%20LightGBM%20%7C%20FinLab-023e8a?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Track%20Record-7Y%20Verified%20OOS-38b000?style=for-the-badge&logo=checkmarx&logoColor=white" />
+    <img src="https://img.shields.io/badge/Role-Senior%20Data%20Scientist-0077b6?style=for-the-badge&logo=expertsexchange&logoColor=white" />
+    <img src="https://img.shields.io/badge/Company-Micron%20Technology-0096c7?style=for-the-badge&logo=microntechnology&logoColor=white" />
+    <img src="https://img.shields.io/badge/Core-Agentic%20AI%20%26%20LLMs-023e8a?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Side%20Alpha-Systematic%20Trading-38b000?style=for-the-badge&logo=tradingview&logoColor=white" />
   </p>
 
 </div>
@@ -24,48 +24,41 @@
 
 ### 👨‍💻 About Me
 
-I am a **Quantitative Researcher & Algorithmic Trading Systems Engineer** based in Taiwan. My work spans empirical asset pricing, automated alpha mining, and institutional-grade risk management:
+Hi there! 👋 I am **Noel Yang**, currently working as a **Senior Data Scientist at Micron Technology**, specializing in **Agentic AI, Multi-Agent Systems, and Enterprise LLM Workflows**.
 
-* 🔬 **Alpha Research & Factor Discovery**: Designing orthogonal fundamental, microstructure, and smart-money factors via Genetic Algorithms and multi-model ensemble learning (LightGBM, XGBoost, CatBoost).
-* 🛡️ **Macro Regime Defense & Risk Parity**: Developing dynamic market regime filters (200 SMA long-term trend filters + continuous volatility target gating) that successfully preserved capital through the 2022 global bear market.
-* ⚡ **Production Systems & Execution**: Architecting decoupled, OOP-driven automated pipelines with automated FinLab cloud synchronization, interactive risk monitoring, and real-time Discord/Telegram alert webhooks.
-
----
-
-### 🏛️ Flagship Quantitative Strategies (Live & Production Verified)
-
-| Strategy ID | Strategy Name | Target Market | Core Quantitative Engine | Full Sharpe | Max DD | Status |
-| :--- | :--- | :--- | :--- | :---: | :---: | :---: |
-| **`GA-047`** | **[Adaptive-ML](https://github.com/NoelTW/finlab-strategy)** | TW Equities (All-Cap) | Market-Cap Adaptive 6-Model GBDT Ensemble + Triple Macro Gates | **3.80** | **-10.55%** | 🟢 Live Production |
-| **`PRAD-007`** | **[Regime-Drift](https://github.com/NoelTW/finlab-strategy)** | TW Equities (Mid/Small) | SUE Z-Score Drift + Institutional Follow-through + 200 SMA Filter | **2.17** | **-14.65%** | 🟢 Live Production |
-| **`MOM-003`** | **[TQQQ-Dual](https://github.com/NoelTW/finlab-strategy)** | US Leveraged ETFs | Dual-Regime Trend Acceleration + High-Vol Regime Deleveraging | **1.35** | **-38.10%** | 🟢 Live Production |
-| **`PORT-6040`** | **Multi-Strategy Blend** | Overlaid Portfolio | Multi-Model ML (60%) + Fundamental PRAD (40%) ($r_{\text{monthly}} = 0.36$) | **3.50** | **-10.63%** | 💎 Flagship Portfolio |
+* 🤖 **Primary Focus (Day Job)**: Architecting production-grade **Agentic AI systems**, autonomous reasoning workflows, and multi-agent frameworks to solve complex industrial and enterprise intelligence challenges at Micron.
+* 📈 **Side Alpha & Passions**: Passionate about bridging Agentic AI with quantitative finance. In my spare time, I design and run autonomous **systematic quantitative trading engines** across Taiwan equities and US leveraged ETFs, leveraging GBDT ensembles, Genetic Algorithm factor search, and macro regime risk filters.
+* 🛠️ **Engineering Mindset**: Dedicated to building clean, decoupled, OOP-driven software architectures with robust CI/CD and production-level reproducibility.
 
 ---
 
-### 🛠️ Quantitative Research & Engineering Stack
+### 🛠️ Core Technical Expertise
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  &nbsp;|&nbsp;
-  <!-- ML / Quant -->
-  <img src="https://img.shields.io/badge/FinLab-1E88E5?style=flat-square&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-FF9900?style=flat-square&logo=lightgbm&logoColor=white" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=yandex&logoColor=black" />
-  <img src="https://img.shields.io/badge/XGBoost-1199EE?style=flat-square&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  &nbsp;|&nbsp;
-  <!-- Infra -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=astral&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord%20API-5865F2?style=flat-square&logo=discord&logoColor=white" />
-</p>
+<div align="center">
+
+| Domain | Core Technologies & Frameworks |
+| :--- | :--- |
+| **🤖 Agentic AI & LLMs** | `Multi-Agent Frameworks`, `LangChain`, `LangGraph`, `AutoGen`, `Function Calling`, `RAG Systems`, `Prompt Engineering`, `Vector Databases` |
+| **🔬 Data Science & ML** | `Python`, `PyTorch`, `LightGBM`, `CatBoost`, `XGBoost`, `Scikit-Learn`, `Pandas`, `NumPy`, `SciPy`, `Optuna` |
+| **⚡ MLOps & Production** | `Docker`, `Git`, `uv`, `GitHub Actions`, `Linux / Bash`, `REST APIs`, `FastAPI`, `PostgreSQL / SQL` |
+| **📈 Systematic Finance (Side)**| `FinLab`, `Risk Parity Sizing`, `Macro Regime Detection`, `Alpha Factor Mining`, `Genetic Algorithms` |
+
+</div>
+
+---
+
+### 🚀 Highlight Projects
+
+#### 🤖 Enterprise & Agentic AI (Core Domain)
+* **Autonomous Multi-Agent Systems**: Designing robust multi-agent orchestration patterns for enterprise knowledge automation, tool-use execution, and complex reasoning pipelines.
+* **LLM Production Workflows**: Building end-to-end evaluation, prompt optimization, and fault-tolerant agentic architectures.
+
+#### 📈 Autonomous Quantitative Trading Engine ([finlab-strategy](https://github.com/NoelTW/finlab-strategy)) *(Side Project)*
+A fully decoupled, OOP-driven algorithmic trading and portfolio management system running live on Taiwan & US markets:
+* **`GA-047 (Adaptive-ML)`**: Market-Cap Adaptive 6-Model GBDT Ensemble + Triple Macro Gates (*7-Year Out-of-Sample Sharpe 3.80 / MDD -10.55%*).
+* **`PRAD-007 (Regime-Drift)`**: Post-Revenue Announcement Drift (SUE Z-Score) + Institutional Co-trading + 200 SMA Filter (*Sharpe 2.17 / MDD -14.65%*).
+* **`MOM-003 (TQQQ-Dual)`**: Dual-Regime Trend Acceleration with dynamic volatility deleveraging on US leveraged ETFs.
+* **Automated Operations**: Automated daily Discord/Telegram risk monitoring alerts and FinLab cloud synchronization.
 
 ---
 
@@ -75,15 +68,15 @@ I am a **Quantitative Researcher & Algorithmic Trading Systems Engineer** based 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=NoelTW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="410"/>
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=NoelTW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="410"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoelTW&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="410"/>
+        <img src="https://streak-stats.demolab.com/?user=NoelTW&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="410"/>
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelTW&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=NoelTW&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 </div>
 
 ---
