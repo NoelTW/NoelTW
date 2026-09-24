@@ -43,6 +43,11 @@ A decoupled, object-oriented systematic trading and portfolio risk management sy
 
 ## 📊 Telemetry & Activity
 
+<!-- Dynamic Contribution Snake Animation -->
+<p align="center">
+  <img src="assets/github-snake.svg" alt="Contribution Graph Snake" width="100%" />
+</p>
+
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
