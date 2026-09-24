@@ -1,93 +1,73 @@
-<div align="center">
+<!-- Hero: macOS Terminal System Readout -->
+<p align="center">
+  <img src="assets/terminal.svg" alt="Noel Yang Terminal" width="100%" />
+</p>
 
-  <!-- Animated Dynamic Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Noel%20Yang&fontSize=46&fontAlignY=38&desc=Senior%20Data%20Scientist%20%7C%20Agentic%20AI%20%40%20Micron%20Technology&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%"/>
+# Noel Yang
+### Senior Data Scientist @ Micron Technology · Agentic AI & Autonomous Systems
 
-  <!-- Readme Typing SVG Animation -->
-  <a href="https://github.com/NoelTW">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Senior+Data+Scientist+%40+Micron+Technology;Architecting+Agentic+AI+Systems+%26+Multi-Agent+LLM+Workflows;Enterprise+AI%2FML+•+Autonomous+Reasoning+Engines;Side+Alpha%3A+Systematic+Quantitative+Trading+%26+Financial+ML" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Status Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Role-Senior%20Data%20Scientist-0077b6?style=for-the-badge&logo=expertsexchange&logoColor=white" />
-    <img src="https://img.shields.io/badge/Company-Micron%20Technology-0096c7?style=for-the-badge&logo=microntechnology&logoColor=white" />
-    <img src="https://img.shields.io/badge/Core-Agentic%20AI%20%26%20LLMs-023e8a?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Side%20Alpha-Systematic%20Trading-38b000?style=for-the-badge&logo=tradingview&logoColor=white" />
-  </p>
-
-</div>
+> Taichung, Taiwan &nbsp;·&nbsp; Primary: Enterprise Agentic AI &amp; Industrial LLMs &nbsp;·&nbsp; Side Alpha: Systematic Quantitative Research
 
 ---
 
-### 👨‍💻 About Me
+## 🏛️ Systems & Engineering Architecture
 
-Hi there! 👋 I am **Noel Yang**, currently working as a **Senior Data Scientist at Micron Technology**, specializing in **Agentic AI, Multi-Agent Systems, and Enterprise LLM Workflows**.
+### 01. Enterprise Agentic AI & Industrial LLMs *(Primary Focus · Micron Technology)*
+Architecting autonomous reasoning systems and multi-agent workflows for complex industrial intelligence challenges:
+* **Multi-Agent Orchestration**: Building stateful multi-agent execution graphs, dynamic task delegation, subagent synthesis, and deterministic routing patterns.
+* **Tool-Use & Function Calling**: Designing resilient function-calling interfaces with strict schema validation, exception recovery, and execution trace observability.
+* **Enterprise Context & Memory**: Scalable Retrieval-Augmented Generation (RAG) with hybrid dense/sparse vector search over proprietary technical corpora.
+* **Production Guardrails & Evaluation**: Automated multi-perspective judge pipelines, synthetic stress-testing, and inference latency/token budget optimization.
 
-* 🤖 **Primary Focus (Day Job)**: Architecting production-grade **Agentic AI systems**, autonomous reasoning workflows, and multi-agent frameworks to solve complex industrial and enterprise intelligence challenges at Micron.
-* 📈 **Side Alpha & Passions**: Passionate about bridging Agentic AI with quantitative finance. In my spare time, I design and run autonomous **systematic quantitative trading engines** across Taiwan equities and US leveraged ETFs, leveraging GBDT ensembles, Genetic Algorithm factor search, and macro regime risk filters.
-* 🛠️ **Engineering Mindset**: Dedicated to building clean, decoupled, OOP-driven software architectures with robust CI/CD and production-level reproducibility.
-
----
-
-### 🛠️ Core Technical Expertise
-
-<div align="center">
-
-| Domain | Core Technologies & Frameworks |
-| :--- | :--- |
-| **🤖 Agentic AI & LLMs** | `Multi-Agent Frameworks`, `LangChain`, `LangGraph`, `AutoGen`, `Function Calling`, `RAG Systems`, `Prompt Engineering`, `Vector Databases` |
-| **🔬 Data Science & ML** | `Python`, `PyTorch`, `LightGBM`, `CatBoost`, `XGBoost`, `Scikit-Learn`, `Pandas`, `NumPy`, `SciPy`, `Optuna` |
-| **⚡ MLOps & Production** | `Docker`, `Git`, `uv`, `GitHub Actions`, `Linux / Bash`, `REST APIs`, `FastAPI`, `PostgreSQL / SQL` |
-| **📈 Systematic Finance (Side)**| `FinLab`, `Risk Parity Sizing`, `Macro Regime Detection`, `Alpha Factor Mining`, `Genetic Algorithms` |
-
-</div>
-
----
-
-### 🚀 Highlight Projects
-
-#### 🤖 Enterprise & Agentic AI (Core Domain)
-* **Autonomous Multi-Agent Systems**: Designing robust multi-agent orchestration patterns for enterprise knowledge automation, tool-use execution, and complex reasoning pipelines.
-* **LLM Production Workflows**: Building end-to-end evaluation, prompt optimization, and fault-tolerant agentic architectures.
-
-#### 📈 Autonomous Systematic Trading Engine `🔒 Proprietary` • [📊 Read Strategy Whitepaper ↗](https://noeltw.github.io/quant-research/) *(Side Project)*
-A fully decoupled, OOP-driven algorithmic trading and portfolio management system running live on Taiwan & US markets:
-* **`GA-047 (Adaptive-ML)`**: Market-Cap Adaptive 6-Model GBDT Ensemble + Triple Macro Gates (*7-Year Out-of-Sample Sharpe 3.80 / MDD -10.55%*). &nbsp;[**Read Research Whitepaper ↗**](https://noeltw.github.io/quant-research/)
+### 02. Autonomous Quantitative Trading Engine *(Side Alpha · Personal Research)*
+A decoupled, object-oriented systematic trading and portfolio risk management system running automated live execution across Taiwan equities and US leveraged ETFs:
+* **`GA-047 (Adaptive-ML)`**: Market-Cap Adaptive 6-Model GBDT Ensemble + Triple Macro Gates (*7-Year Out-of-Sample Sharpe 3.80 / MDD -10.55%*).
 * **`PRAD-007 (Regime-Drift)`**: Post-Revenue Announcement Drift (SUE Z-Score) + Institutional Co-trading + 200 SMA Filter (*Sharpe 2.17 / MDD -14.65%*).
-* **`MOM-003 (TQQQ-Dual)`**: Dual-Regime Trend Acceleration with dynamic volatility deleveraging on US leveraged ETFs.
-* **Automated Architecture**: Automated daily Discord/Telegram risk monitoring alerts and FinLab cloud synchronization.
+* **`MOM-003 (TQQQ-Dual)`**: Dual-regime trend acceleration with dynamic volatility deleveraging on US leveraged assets.
+* **Headless Operations**: Automated daily cron execution, broker risk rebalancing, and live telemetry dispatch via Discord webhooks.
+* 📄 **Research Publication**: [**Read the Quantitative Strategy Whitepaper ↗**](https://noeltw.github.io/quant-research/) *(Published on GitHub Pages)*
+* 🔒 **Core Codebase**: `[Proprietary Research Engine · Private]`
 
 ---
 
-### 📊 GitHub Activity & Statistics
+## ⚙️ Technical Matrix
+
+| Domain | Core Technologies & Methodologies |
+| :--- | :--- |
+| **Agentic AI & LLMs** | Multi-Agent Frameworks, LangGraph, Tool-Use & Function Calling, Autonomous Workflows, LLM Evaluator Harnesses, RAG Architecture |
+| **Machine Learning & Modeling** | GBDT Ensembles (LightGBM, CatBoost, XGBoost), PyTorch, Optuna Hyperparameter Search, Genetic Algorithm Feature Optimization |
+| **Data Engineering & Infra** | Python (uv package management), FastAPI, Docker, Linux / Zsh, PostgreSQL, Vector Databases, Asynchronous Task Pipelines |
+| **Quantitative Finance** | Vectorized Backtesting (FinLab), SUE Factor Mining, Volatility Targeting, 3-Tier Macro Regime Circuit Breakers |
+
+---
+
+## 📊 Telemetry & Activity
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=NoelTW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="410"/>
+      <td align="center" valign="middle">
+        <a href="https://github.com/NoelTW">
+          <img src="https://streak-stats.demolab.com/?user=NoelTW&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="410"/>
+        </a>
       </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=NoelTW&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="410"/>
+      <td align="center" valign="middle">
+        <a href="https://github.com/NoelTW">
+          <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=NoelTW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="410"/>
+        </a>
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=NoelTW&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=NoelTW&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="450"/>
 </div>
 
 ---
 
-### 📬 Connect With Me
+## 📬 Contact & Connect
 
 <p align="center">
-  <a href="https://github.com/NoelTW"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:as11111satw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:as11111satw@gmail.com"><img src="https://img.shields.io/badge/Email-as11111satw%40gmail.com-1e293b?style=flat-square&logo=gmail&logoColor=ea4335" alt="Email" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/NoelTW"><img src="https://img.shields.io/badge/GitHub-%40NoelTW-1e293b?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=100&section=footer" width="100%"/>
-</div>
