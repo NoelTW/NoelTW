@@ -24,7 +24,7 @@ A decoupled, object-oriented systematic trading and portfolio risk management sy
 * **`GA-047 (Adaptive-ML)`**: Market-Cap Adaptive 6-Model GBDT Ensemble + Triple Macro Gates (*7-Year Out-of-Sample Sharpe 3.80 / MDD -10.55%*).
 * **`PRAD-007 (Regime-Drift)`**: Post-Revenue Announcement Drift (SUE Z-Score) + Institutional Co-trading + 200 SMA Filter (*Sharpe 2.17 / MDD -14.65%*).
 * **`MOM-003 (TQQQ-Dual)`**: Dual-regime trend acceleration with dynamic volatility deleveraging on US leveraged assets.
-* **Headless Operations**: Automated daily cron execution, broker risk rebalancing, and live telemetry dispatch via Discord webhooks.
+* **Headless Operations**: Automated daily serverless execution via GitHub Actions (18:30 UTC+8), FinLab cloud synchronization, and broker risk rebalancing.
 * 📄 **Research Publication**: [**Read the Quantitative Strategy Whitepaper ↗**](https://noeltw.github.io/quant-research/) *(Published on GitHub Pages)*
 * 🔒 **Core Codebase**: `[Proprietary Research Engine · Private]`
 
@@ -36,8 +36,8 @@ A decoupled, object-oriented systematic trading and portfolio risk management sy
 | :--- | :--- |
 | **Agentic AI & LLMs** | Multi-Agent Frameworks, LangGraph, Tool-Use & Function Calling, Autonomous Workflows, LLM Evaluator Harnesses, RAG Architecture |
 | **Machine Learning & Modeling** | GBDT Ensembles (LightGBM, CatBoost, XGBoost), PyTorch, Optuna Hyperparameter Search, Genetic Algorithm Feature Optimization |
-| **Data Engineering & Infra** | Python (uv package management), FastAPI, Docker, Linux / Zsh, PostgreSQL, Vector Databases, Asynchronous Task Pipelines |
-| **Quantitative Finance** | Vectorized Backtesting (FinLab), SUE Factor Mining, Volatility Targeting, 3-Tier Macro Regime Circuit Breakers |
+| **Data Engineering & Infra** | Python (uv package management), FastAPI, Docker, Linux / Zsh, PostgreSQL, Vector Databases, Asynchronous Task Pipelines, GitHub Actions CI/CD |
+| **Quantitative Finance** | Vectorized Backtesting (FinLab v2.1+), SUE Factor Mining, Volatility Targeting, 3-Tier Macro Regime Circuit Breakers |
 
 ---
 
@@ -72,7 +72,7 @@ A decoupled, object-oriented systematic trading and portfolio risk management sy
 ## 📬 Contact & Connect
 
 <p align="center">
-  <a href="mailto:as11111satw@gmail.com"><img src="https://img.shields.io/badge/Email-as11111satw%40gmail.com-1e293b?style=flat-square&logo=gmail&logoColor=ea4335" alt="Email" /></a>
+  <a href="mailto:noelyang0208@gmail.com"><img src="https://img.shields.io/badge/Email-noelyang0208%40gmail.com-1e293b?style=flat-square&logo=gmail&logoColor=ea4335" alt="Email" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/NoelTW"><img src="https://img.shields.io/badge/GitHub-%40NoelTW-1e293b?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
