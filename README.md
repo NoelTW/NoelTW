@@ -6,7 +6,7 @@
 # Noel Yang
 ### Senior Data Scientist @ Micron Technology · Agentic AI & Autonomous Systems
 
-> Taichung, Taiwan &nbsp;·&nbsp; Primary: Enterprise Agentic AI &amp; Industrial LLMs &nbsp;·&nbsp; Side Alpha: Systematic Quantitative Research
+> Singapore 🇸🇬 &nbsp;·&nbsp; Primary: Enterprise Agentic AI &amp; Industrial LLMs &nbsp;·&nbsp; Side Alpha: Systematic Quantitative Research
 
 ---
 
@@ -23,7 +23,7 @@ Architecting autonomous reasoning systems and multi-agent workflows for complex 
 A decoupled, object-oriented systematic trading and portfolio risk management system running automated live execution across Taiwan equities and US leveraged ETFs:
 * **`GA-047 (Adaptive-ML)`**: Market-Cap Adaptive 6-Model GBDT Ensemble + Triple Macro Gates (*7-Year Out-of-Sample Sharpe 3.80 / MDD -10.55%*).
 * **`PRAD-007 (Regime-Drift)`**: Post-Revenue Announcement Drift (SUE Z-Score) + Institutional Co-trading + 200 SMA Filter (*Sharpe 2.17 / MDD -14.65%*).
-* **`MOM-003 (TQQQ-Dual)`**: Dual-regime trend acceleration with dynamic volatility deleveraging on US leveraged assets.
+* **`MOM-003 (TQQQ-Dual)`**: Momentum Fast-Lane Hysteresis + Volatility Circuit Breaker on US leveraged assets (*10-Year CAGR 50.84% / Sharpe 1.26*).
 * **Headless Operations**: Automated daily serverless execution via GitHub Actions (18:30 UTC+8), FinLab cloud synchronization, and broker risk rebalancing.
 * 📄 **Research Publication**: [**Read the Quantitative Strategy Whitepaper ↗**](https://noeltw.github.io/quant-research/) *(Published on GitHub Pages)*
 * 🔒 **Core Codebase**: `[Proprietary Research Engine · Private]`
