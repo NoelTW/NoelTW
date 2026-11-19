@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 132" width="100%" height="132" role="img" aria-label="Noel Yang — Micron Technology Singapore">
+  <defs>
+    <linearGradient id="bg-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fcfcfb"/>
+      <stop offset="100%" stop-color="#f4f5f7"/>
+    </linearGradient>
+    <pattern id="grid-light" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#e2e8f0" stroke-width="0.6" opacity="0.65"/>
+    </pattern>
+  </defs>
+
+  <!-- Card Frame -->
+  <rect x="1" y="1" width="878" height="130" rx="8" fill="url(#bg-light)" stroke="#d8dee9" stroke-width="1"/>
+  <rect x="1" y="1" width="878" height="130" rx="8" fill="url(#grid-light)"/>
+
+  <!-- Subtle Left Accent Hairline -->
+  <line x1="28" y1="30" x2="28" y2="102" stroke="#0284c7" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+
+  <!-- Left Identity Block -->
+  <text x="46" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="-0.4" fill="#0f172a">Noel Yang</text>
+  <text x="46" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#475569">Senior Data Scientist &#183; Micron Technology</text>
+  <text x="46" y="101" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.8" fill="#64748b">SINGAPORE // SYSTEMS &amp; APPLIED ML</text>
+
+  <!-- Vertical Divider -->
+  <line x1="536" y1="28" x2="536" y2="104" stroke="#e2e8f0" stroke-width="1"/>
+
+  <!-- Right Research Coordinates -->
+  <g font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.2">
+    <text x="560" y="47" fill="#334155">01  Enterprise Agentic Architectures</text>
+    <text x="560" y="70" fill="#334155">02  Hardware-Aware LLM Inference</text>
+    <text x="560" y="93" fill="#334155">03  Purged Quantitative Microstructure</text>
+  </g>
+
+  <!-- Minimal Status Dot -->
+  <circle cx="852" cy="24" r="3.5" fill="#059669"/>
+</svg>
